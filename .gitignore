@@ -1,0 +1,13 @@
+
+# exclude data from source control
+/data/
+
+# exclude reports from source control
+/reports/figures/
+
+# exclude models from source control
+/models/
+
+# exclude pycach
+__pycache__/
+*.pyc
